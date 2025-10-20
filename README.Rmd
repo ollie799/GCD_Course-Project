@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-## ReadMe: Course Project for Getting and Cleaning Data
+## README: Course Project for Getting and Cleaning Data
 
 This is a collection of files created for the final course project for
 Getting and Cleaning Data.
